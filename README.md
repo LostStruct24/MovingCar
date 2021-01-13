@@ -1,4 +1,4 @@
 # MovingCar
 Moving Car animation using CSS
 
-[![Moving-Car.gif](https://i.postimg.cc/4dJWGxPx/Moving-Car.gif)](https://postimg.cc/WDHG6jxB)
+![alt text](https://github.com/LostStruct24/MovingCar/blob/main/images/Moving-Car.gif)
